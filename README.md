@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+:email: anaherrmanndev@gmail.com
+:link: https://www.linkedin.com/in/herrmannluiza/
+
 :computer: Atualmente cursando o bootcamp GoStack da Rocketseat e estudando Node.js | ReactJS | React Native | Docker | AWS\
 🌱 Buscando um novo desafio na área de desenvolvimento back-end\
 :balloon: Gosto resolver problemas computacionais com C e C++\
