@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:computer: Atualmente cursando o bootcamp GoStack da Rocketseat e estudando Node.js | ReactJS | React Native | Docker | AWS
-🌱 Buscando um novo desafio na área de desenvolvimento back-end 
-:balloon: Gosto de mexer em problemas computacionais com C e c++
-🔭 Experiência com C#, .NET Core, Powershell e SQL Server
+:computer: Atualmente cursando o bootcamp GoStack da Rocketseat e estudando Node.js | ReactJS | React Native | Docker | AWS\
+🌱 Buscando um novo desafio na área de desenvolvimento back-end\
+:balloon: Gosto de mexer em problemas computacionais com C e c++\
+🔭 Experiência com C#, .NET Core, Powershell e SQL Server\
 
 
 
