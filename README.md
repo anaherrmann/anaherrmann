@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou a Ana 👋
 
 <!--
 **anaherrmann/anaherrmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:computer: Atualmente cursando o bootcamp GoStack da Rocketseat e estudando Node.js | ReactJS | React Native | Docker | AWS
+🌱 Buscando um novo desafio na área de desenvolvimento back-end 
+:balloon: Gosto de mexer em problemas computacionais com C e c++
+🔭 Experiência com C#, .NET Core, Powershell e SQL Server
+
+
+
+
