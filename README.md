@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 :computer: Currently doing the Rocketseat GoStack bootcamp, studying Node.js | ReactJS | React Native | Docker | AWS\
 🌱 Looking for a new challenge on the Javascript stack\
-:balloon: I like solving computational problems with C e C++\
+:balloon: I like solving computational problems with C and C++\
 🔭 I've worked with C#, .NET Core, Powershell and SQL Server
 
 
