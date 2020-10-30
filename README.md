@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 :email: anaherrmanndev@gmail.com\
 :link: https://www.linkedin.com/in/herrmannluiza/
 
-:computer: Currently doing the Rocketseat GoStack bootcamp, studying Node.js | ReactJS | React Native | Docker | AWS\
+:computer: Currently doing the Rocketseat GoStack bootcamp, studying Node.js | ReactJS | React Native | PostgreSQL | MongoDB | Docker | AWS\
 🌱 Looking for a new challenge on the Javascript stack\
 :balloon: I like solving computational problems with C and C++\
 🔭 I've worked with C#, .NET Core, Powershell and SQL Server
